@@ -21,7 +21,6 @@ The application handles live gameplay variables via `@State` management. It rend
 
 # Useful Websites
 
-* [Apple Developer Documentation](https://apple.com)
-* [SwiftUI Tutorials - Apple Developer](https://apple.com/tutorials/swiftui)
+* [Apple Developer Documentation](https://developer.apple.com/documentation/swiftui)
+* [SwiftUI Tutorials - Apple Developer](https://developer.apple.com/tutorials/swiftui)
 * [Hacking with Swift - SwiftUI Edition](https://hackingwithswift.com)
-
